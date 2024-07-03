@@ -6,6 +6,7 @@ Split videos into 5 minute chunks.
 ```bash
 git clone https://github.com/abraham-tsang/split-videos.git
 ```
+2. Install dependencies ffmpeg and ffprobe in 1 package from https://ffmpeg.org/download.html
 
 ## Usage
 1. Put mp4 files into repo
